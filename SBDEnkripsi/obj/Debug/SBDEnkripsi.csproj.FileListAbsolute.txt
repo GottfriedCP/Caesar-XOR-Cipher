@@ -1,0 +1,17 @@
+D:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\bin\Debug\SBDEnkripsi.exe.config
+D:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\bin\Debug\SBDEnkripsi.exe
+D:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\bin\Debug\SBDEnkripsi.pdb
+D:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\obj\Debug\SBDEnkripsi.csprojResolveAssemblyReference.cache
+D:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\obj\Debug\SBDEnkripsi.Form1.resources
+D:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\obj\Debug\SBDEnkripsi.Properties.Resources.resources
+D:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\obj\Debug\SBDEnkripsi.csproj.GenerateResource.Cache
+D:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\obj\Debug\SBDEnkripsi.exe
+D:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\obj\Debug\SBDEnkripsi.pdb
+K:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\bin\Debug\SBDEnkripsi.exe.config
+K:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\bin\Debug\SBDEnkripsi.exe
+K:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\bin\Debug\SBDEnkripsi.pdb
+K:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\obj\Debug\SBDEnkripsi.Form1.resources
+K:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\obj\Debug\SBDEnkripsi.Properties.Resources.resources
+K:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\obj\Debug\SBDEnkripsi.csproj.GenerateResource.Cache
+K:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\obj\Debug\SBDEnkripsi.exe
+K:\Users\Gottfried\Documents\Visual Studio 2015\Projects\SBDEnkripsi\SBDEnkripsi\obj\Debug\SBDEnkripsi.pdb
