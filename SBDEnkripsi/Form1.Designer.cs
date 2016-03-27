@@ -68,7 +68,7 @@
             this.groupBox1.Controls.Add(this.btnExec);
             this.groupBox1.Controls.Add(this.rdBtnDec);
             this.groupBox1.Controls.Add(this.rdBtnEnc);
-            this.groupBox1.Location = new System.Drawing.Point(16, 60);
+            this.groupBox1.Location = new System.Drawing.Point(16, 261);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(446, 94);
             this.groupBox1.TabIndex = 2;
@@ -126,16 +126,17 @@
             // 
             // txtMain
             // 
-            this.txtMain.Location = new System.Drawing.Point(16, 160);
+            this.txtMain.Location = new System.Drawing.Point(16, 60);
             this.txtMain.Multiline = true;
             this.txtMain.Name = "txtMain";
+            this.txtMain.ReadOnly = true;
             this.txtMain.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtMain.Size = new System.Drawing.Size(446, 175);
+            this.txtMain.Size = new System.Drawing.Size(446, 202);
             this.txtMain.TabIndex = 3;
             // 
             // btnSave
             // 
-            this.btnSave.Location = new System.Drawing.Point(12, 341);
+            this.btnSave.Location = new System.Drawing.Point(321, 361);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(143, 23);
             this.btnSave.TabIndex = 5;
@@ -146,7 +147,7 @@
             // lblStatus
             // 
             this.lblStatus.AutoSize = true;
-            this.lblStatus.Location = new System.Drawing.Point(161, 345);
+            this.lblStatus.Location = new System.Drawing.Point(12, 363);
             this.lblStatus.Name = "lblStatus";
             this.lblStatus.Size = new System.Drawing.Size(15, 19);
             this.lblStatus.TabIndex = 5;
@@ -157,7 +158,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(474, 374);
+            this.ClientSize = new System.Drawing.Size(476, 391);
             this.Controls.Add(this.lblStatus);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.txtMain);
